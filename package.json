@@ -1,0 +1,32 @@
+{
+  "name": "intent-monad",
+  "version": "1.0.0",
+  "description": "Monads implemented using `intention`",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc ava -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oakfang/intent-monad.git"
+  },
+  "keywords": [
+    "intention",
+    "monads",
+    "effects",
+    "functional"
+  ],
+  "author": "Alon Niv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oakfang/intent-monad/issues"
+  },
+  "homepage": "https://github.com/oakfang/intent-monad#readme",
+  "dependencies": {
+    "intention": "^1.0.0"
+  },
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "nyc": "^8.3.0"
+  }
+}
