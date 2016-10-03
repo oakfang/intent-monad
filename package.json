@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/oakfang/intent-monad#readme",
   "dependencies": {
-    "intention": "^1.0.0"
+    "intention": "^2.0.0"
   },
   "devDependencies": {
     "ava": "^0.16.0",
